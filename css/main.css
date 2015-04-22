@@ -128,15 +128,21 @@ p{
   width:100%;
 }
 
+.shrimp{
+  width:100%;
+}
+
 #about{
   background-color:white;
-  padding:1.5rem;
+  padding:2rem;
+  padding-bottom:4rem;
 }
 
 #item{
   background-color:#8CC540;
   margin:auto;
-  padding:1.5rem;
+  padding-top:1rem;
+  padding-bottom:1.5rem;
 }
 
 #location{
@@ -154,6 +160,14 @@ p{
 
 #bottom{
   color:white;
+}
+
+#fb{
+  width:75px;
+}
+
+#tweet{
+  width:75px;
 }
 
 footer{
